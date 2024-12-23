@@ -97,6 +97,4 @@ To enhance all audio files contained in a directory, run the `main.py` file with
 
 ## Results
 
-Visible below are some examples of enhanced audio files:
-
-TODO
+Examples of enhanced files from the [Helsinki Speech Challenge 2024 dataset](https://zenodo.org/records/11380835) can be found in the folder `examples`. Regardless of the task, the entire enhancement architecture achieved an **Real-Time Factor (RTF) of ~0.016** on a single Tesla P100-PCIE-16GB GPU. All models used to obtain these results can be found [here](https://tu-dortmund.sciebo.de/s/APkxv6fuIuHKn6o).
